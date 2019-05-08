@@ -1,5 +1,5 @@
 module SongsHelper
-<<<<<<< HEAD
+
   def artist_select(song, artist)
     if artist
       hidden_field_tag "song[artist_id]", song.artist_id
