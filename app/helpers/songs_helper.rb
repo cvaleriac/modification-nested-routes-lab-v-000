@@ -16,5 +16,4 @@ module SongsHelper
     end
   end
 
->>>>>>> 5f26fa0006757f2541b7df100190d422b07351d0
 end
